@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.exe
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.deps.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.dev.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\bin\Debug\net5.0\06. Strong number.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfo.cs
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\refint\06. Strong number.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\06. Strong number.genruntimeconfig.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\06. Strong number\obj\Debug\net5.0\ref\06. Strong number.dll

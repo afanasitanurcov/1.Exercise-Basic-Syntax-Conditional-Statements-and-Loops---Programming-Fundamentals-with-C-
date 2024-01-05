@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.exe
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.deps.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfo.cs
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\refint\08. Triangle of Numbers.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.genruntimeconfig.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\08. Triangle of Numbers\obj\Debug\net5.0\ref\08. Triangle of Numbers.dll

@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.exe
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.deps.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.runtimeconfig.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.runtimeconfig.dev.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\bin\Debug\net5.0\Divison.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.AssemblyInfo.cs
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\refint\Divison.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\Divison.genruntimeconfig.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\Divison\obj\Debug\net5.0\ref\Divison.dll

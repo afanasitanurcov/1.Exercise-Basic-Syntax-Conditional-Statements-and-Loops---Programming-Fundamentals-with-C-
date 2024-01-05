@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\refint\10. Rage Expenses.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll

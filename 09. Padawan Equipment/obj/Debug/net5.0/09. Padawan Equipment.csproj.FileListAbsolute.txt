@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.exe
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.deps.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.dev.json
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfo.cs
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\refint\09. Padawan Equipment.dll
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.pdb
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.genruntimeconfig.cache
+C:\progr\fundamentalмай\1. Exercise Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with C# - май 2023\09. Padawan Equipment\obj\Debug\net5.0\ref\09. Padawan Equipment.dll
